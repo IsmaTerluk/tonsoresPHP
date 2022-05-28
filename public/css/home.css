@@ -1,0 +1,32 @@
+body { 
+    background-image: url("../src/fondo_home2.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    /*background-color: #212529;*/
+    color: white;
+}
+
+h5{
+    color: rgb(172, 172, 172); 
+}
+
+h4{
+    color: rgba(212, 162, 23, 0.849);
+}
+
+.paragraph{
+    font-family: 'cursive';
+    font-size: 3vh;
+}
+
+.link{
+    text-decoration: none;
+    color: rgba(212, 162, 23, 0.849);
+}
+
+.link:hover{
+    
+    color: white;
+
+}
+

@@ -1,0 +1,32 @@
+body { 
+    /* background-color: #212529; */
+    background-image: url("../src/fondo_home2.jpg");
+    background-repeat:repeat;
+    background-size:auto;
+}
+
+
+
+.title{
+    color: rgba(212, 162, 23, 0.849);
+    font-family: 'Vast Shadow', cursive; 
+    font-size:6vh;
+}
+
+.paragraph{
+    font-family: 'cursive';
+    font-size: 5vh;
+}
+
+a:hover{
+    color: rgba(212, 162, 23, 0.849); 
+}
+
+a{
+    color: #737475;
+}
+
+.button:hover{
+    background-color: rgba(212, 162, 23, 0.849);
+    color: black;
+}

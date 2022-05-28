@@ -1,0 +1,35 @@
+body { 
+    background-color: #212529;
+    background-image: url("../src/fondo_home2.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    color: white;
+}
+
+
+
+.title{
+    /* color: rgba(212, 162, 23, 0.849); */ 
+    color:white;
+    font-family: 'Vast Shadow', cursive; 
+    font-size:6vh;
+}
+
+.paragraph{
+    font-family: 'cursive';
+    font-size: 5vh;
+}
+
+a{
+    color: rgba(212, 162, 23, 0.849); 
+}
+
+a:hover{
+    color: #737475;
+}
+
+.button:hover{
+    background-color: rgba(212, 162, 23, 0.849);
+    color: black;
+    border-color:rgba(212, 162, 23, 0.849); 
+}
